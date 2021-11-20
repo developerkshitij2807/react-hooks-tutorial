@@ -8,6 +8,6 @@ This hook allows you to use your local state.
 
 => Using Objects with state. To use objects in useState, we use it by destructuring the object variable,
 
-![useState Object](http://url/to/img.png)
+![useState Object](https://ibb.co/mhMFNsb)
 
 ## 2.)
